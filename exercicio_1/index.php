@@ -21,5 +21,4 @@
         <input type="submit" name="btnVerifica" id="btnVerifica" value="verifica">
 </body>
     
-</body>
 </html>
