@@ -9,7 +9,7 @@
 
     <h2>Bem vindo a Lanchonte dos Dev´s</h2>
 
-        <form action="lanchonete.php" methodo="post">
+        <form action="lanchonete.php" method="post">
    
 
             <table border="0">
