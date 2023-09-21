@@ -19,4 +19,8 @@ if(isset($array[$produto]))
 
         echo "Valor final: R$ " . number_format($valor_final, 2, ',', '.');
     }
+else if(!isset($array[$produto]))
+    {
+        echo "Código não existente";
+    }
 ?>
